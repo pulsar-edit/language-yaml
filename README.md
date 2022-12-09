@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # YAML language support in Pulsar
 [![macOS Build Status](https://travis-ci.org/atom/language-yaml.svg?branch=master)](https://travis-ci.org/atom/language-yaml)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/eaa4ql7kipgphc2n/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/language-yaml/branch/master)
